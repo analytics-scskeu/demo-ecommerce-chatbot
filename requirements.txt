@@ -1,0 +1,8 @@
+faiss-cpu==1.8.0.post1
+langchain==0.2.10
+langchain_community==0.2.9
+# langchain-experimental==0.0.49
+langchain_openai==0.1.17
+openai==1.36.1
+pandas==2.2.2
+python-decouple==3.8
