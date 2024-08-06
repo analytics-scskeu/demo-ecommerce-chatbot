@@ -1,5 +1,7 @@
 # E-commerce Chatbot
 
+![Data Flow in the Chatbot](img/Ecommerce-Chatbot.gif)
+
 In the rapidly evolving world of e-commerce, providing exceptional customer service and personalized shopping experiences is crucial. One effective way to achieve this is through the integration of intelligent chatbots. However, building a chatbot that can effectively handle both structured and unstructured data is a complex challenge.
 
 ## Dataset
